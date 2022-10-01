@@ -1,28 +1,28 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `GoOnline`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `GoOnline`,
+      summary: `Tecchies World`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `Solutions For DevOps, CloudOps, Linux, And Much More.`,
+    siteUrl: `https://blog.goonline.dev`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `goonline`,
     },
     socialLinks: [
       {
         name: 'github',
-        url: 'https://github.com',
+        url: 'https://github.com/',
       },
       {
-        name: 'twitter',
-        url: 'https://twitter.com',
+        name: 'linkedin',
+        url: 'https://www.linkedin.com/company/go-online-web/',
       },
       {
-        name: 'instagram',
-        url: 'https://instagram.com',
+        name: 'facebook',
+        url: 'https://www.facebook.com/goonline.dev/',
       },
     ],
   },
