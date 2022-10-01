@@ -1,6 +1,6 @@
 ---
 title: Node Version Manager (nvm)
-date: 2022-10-01 20:24
+date: 2022-09-10 20:24
 tags:
   - Node
   - Node_using_nvm
