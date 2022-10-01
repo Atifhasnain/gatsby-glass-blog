@@ -2,10 +2,9 @@
 title: ERPNext Installation Guide on Ubuntu 22.04
 date: 2022-09-15 20:28
 tags:
-  - ERP_Next
+  - ERPNext
   - Ubuntu
   - Frappe
-  - ""
 social_image: /media/erpnext-logo.webp
 description: "A complete guide for installing ERP Next on Ubuntu 22.04 using
   Frappe Framework. "
