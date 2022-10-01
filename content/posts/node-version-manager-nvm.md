@@ -3,9 +3,9 @@ title: Node Version Manager (nvm)
 date: 2022-09-10 20:24
 tags:
   - Node
-  - Node_using_nvm
+  - Node using nvm
   - nvm
-  - Node_version_manager
+  - Node version manager
 social_image: ""
 description: Node installation using nvm
 ---
