@@ -1,8 +1,8 @@
 ---
-template: 'index-template'
-title: 'Gatsby Starter Glass'
+title: GoOnline
+template: index-template
+profile_image: /media/goonline-1-.png
 ---
+\#Tech Blogging
 
-#Hello World
-
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+S﻿olutions for DevOps, CloudOps, Linux and much more.
