@@ -6,7 +6,7 @@ tags:
   - Node_using_nvm
   - nvm
   - Node_version_manager
-social_image: /media/nvm.webp
+social_image: ""
 description: Node installation using nvm
 ---
 ### Install & Update Script
