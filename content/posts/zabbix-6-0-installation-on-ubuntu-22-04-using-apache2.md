@@ -21,6 +21,22 @@ sudo apt update
 apt install zabbix-server-mysql zabbix-frontend-php zabbix-apache-conf zabbix-sql-scripts zabbix-agent
 ```
 
+##### Edit php.ini File
+
+```
+sudo vi /etc/php/8.1/apache2/php.ini
+
+Change the following settings:
+
+memory_limit 256M
+upload_max_filesize 16M
+post_max_size 16M
+max_execution_time 300
+max_input_time 300
+max_input_vars 10000
+date.timezone = Asia/Karachi
+```
+
 ##### Setup MySQL Password using Secure Installation
 
 ```
