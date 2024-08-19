@@ -54,5 +54,11 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  }
+  },
+  "resolutions": {
+  "fsevents": "^2.3.2",
+  "@lmdb/*": "0",
+  "@msgpackr-extract/*": "0",
+  "@parcel/*": "0"
+}
 }
