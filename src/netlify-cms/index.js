@@ -4,6 +4,7 @@ CMS.init({
   config: {
     backend: {
       name: 'git-gateway',
+      branch: master,
     },
   },
 });
