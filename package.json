@@ -48,6 +48,7 @@
     "url": "git+https://github.com/yinkakun/gatsby-starter-glass.git"
   },
   "scripts": {
+    "prebuild": "npx browserslist@latest --update-db",
     "build": "gatsby build",
     "dev": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
